@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shailesh1416/TicTacToe.git/static/css/main.ae8cfce0.css",
+    "main.js": "/shailesh1416/TicTacToe.git/static/js/main.c4460adc.js",
+    "index.html": "/shailesh1416/TicTacToe.git/index.html",
+    "main.ae8cfce0.css.map": "/shailesh1416/TicTacToe.git/static/css/main.ae8cfce0.css.map",
+    "main.c4460adc.js.map": "/shailesh1416/TicTacToe.git/static/js/main.c4460adc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae8cfce0.css",
+    "static/js/main.c4460adc.js"
+  ]
+}
